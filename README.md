@@ -18,7 +18,7 @@
 
 ### 🙄 ᴅᴇᴍᴏ/ᴛᴇsᴛ ʙᴏᴛ
   
-  [sᴛʀɪɴɢ ʙᴏᴛ 🍑](https://telegram.me/string_gen_robot)
+  [sᴛʀɪɴɢ ʙᴏᴛ 🕊️](https://telegram.me/String_session_genrobot)
 
 ```
 Atleast Give A Star and Fork The Repo 🖤
